@@ -1,2 +1,2 @@
-# CONDICIONAIS
-atividade SENAI de Informática - Condicionais
+# LÓGICA E BACK-END
+atividades SENAI de Informática 
