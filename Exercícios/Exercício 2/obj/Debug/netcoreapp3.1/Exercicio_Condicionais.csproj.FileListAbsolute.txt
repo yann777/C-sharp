@@ -1,0 +1,13 @@
+C:\Users\juanv\Desktop\DEV\back-end\Exercicio_Condicionais\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio_Condicionais.exe
+C:\Users\juanv\Desktop\DEV\back-end\Exercicio_Condicionais\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio_Condicionais.deps.json
+C:\Users\juanv\Desktop\DEV\back-end\Exercicio_Condicionais\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio_Condicionais.runtimeconfig.json
+C:\Users\juanv\Desktop\DEV\back-end\Exercicio_Condicionais\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio_Condicionais.runtimeconfig.dev.json
+C:\Users\juanv\Desktop\DEV\back-end\Exercicio_Condicionais\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio_Condicionais.dll
+C:\Users\juanv\Desktop\DEV\back-end\Exercicio_Condicionais\Exercicio2\bin\Debug\netcoreapp3.1\Exercicio_Condicionais.pdb
+C:\Users\juanv\Desktop\DEV\back-end\Exercicio_Condicionais\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio_Condicionais.csprojAssemblyReference.cache
+C:\Users\juanv\Desktop\DEV\back-end\Exercicio_Condicionais\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio_Condicionais.AssemblyInfoInputs.cache
+C:\Users\juanv\Desktop\DEV\back-end\Exercicio_Condicionais\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio_Condicionais.AssemblyInfo.cs
+C:\Users\juanv\Desktop\DEV\back-end\Exercicio_Condicionais\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio_Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\juanv\Desktop\DEV\back-end\Exercicio_Condicionais\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio_Condicionais.dll
+C:\Users\juanv\Desktop\DEV\back-end\Exercicio_Condicionais\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio_Condicionais.pdb
+C:\Users\juanv\Desktop\DEV\back-end\Exercicio_Condicionais\Exercicio2\obj\Debug\netcoreapp3.1\Exercicio_Condicionais.genruntimeconfig.cache
