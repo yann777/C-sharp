@@ -1,0 +1,26 @@
+C:\Users\juanv\Desktop\DEV\back-end\Exercicio_Tabuada\bin\Debug\netcoreapp3.1\Exercicio_Tabuada.exe
+C:\Users\juanv\Desktop\DEV\back-end\Exercicio_Tabuada\bin\Debug\netcoreapp3.1\Exercicio_Tabuada.deps.json
+C:\Users\juanv\Desktop\DEV\back-end\Exercicio_Tabuada\bin\Debug\netcoreapp3.1\Exercicio_Tabuada.runtimeconfig.json
+C:\Users\juanv\Desktop\DEV\back-end\Exercicio_Tabuada\bin\Debug\netcoreapp3.1\Exercicio_Tabuada.runtimeconfig.dev.json
+C:\Users\juanv\Desktop\DEV\back-end\Exercicio_Tabuada\bin\Debug\netcoreapp3.1\Exercicio_Tabuada.dll
+C:\Users\juanv\Desktop\DEV\back-end\Exercicio_Tabuada\bin\Debug\netcoreapp3.1\Exercicio_Tabuada.pdb
+C:\Users\juanv\Desktop\DEV\back-end\Exercicio_Tabuada\obj\Debug\netcoreapp3.1\Exercicio_Tabuada.csprojAssemblyReference.cache
+C:\Users\juanv\Desktop\DEV\back-end\Exercicio_Tabuada\obj\Debug\netcoreapp3.1\Exercicio_Tabuada.AssemblyInfoInputs.cache
+C:\Users\juanv\Desktop\DEV\back-end\Exercicio_Tabuada\obj\Debug\netcoreapp3.1\Exercicio_Tabuada.AssemblyInfo.cs
+C:\Users\juanv\Desktop\DEV\back-end\Exercicio_Tabuada\obj\Debug\netcoreapp3.1\Exercicio_Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\juanv\Desktop\DEV\back-end\Exercicio_Tabuada\obj\Debug\netcoreapp3.1\Exercicio_Tabuada.dll
+C:\Users\juanv\Desktop\DEV\back-end\Exercicio_Tabuada\obj\Debug\netcoreapp3.1\Exercicio_Tabuada.pdb
+C:\Users\juanv\Desktop\DEV\back-end\Exercicio_Tabuada\obj\Debug\netcoreapp3.1\Exercicio_Tabuada.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Área de Trabalho\C# sharp\Tabuada\bin\Debug\netcoreapp3.1\Exercicio_Tabuada.exe
+C:\Users\andre\OneDrive\Área de Trabalho\C# sharp\Tabuada\bin\Debug\netcoreapp3.1\Exercicio_Tabuada.deps.json
+C:\Users\andre\OneDrive\Área de Trabalho\C# sharp\Tabuada\bin\Debug\netcoreapp3.1\Exercicio_Tabuada.runtimeconfig.json
+C:\Users\andre\OneDrive\Área de Trabalho\C# sharp\Tabuada\bin\Debug\netcoreapp3.1\Exercicio_Tabuada.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Área de Trabalho\C# sharp\Tabuada\bin\Debug\netcoreapp3.1\Exercicio_Tabuada.dll
+C:\Users\andre\OneDrive\Área de Trabalho\C# sharp\Tabuada\bin\Debug\netcoreapp3.1\Exercicio_Tabuada.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\C# sharp\Tabuada\obj\Debug\netcoreapp3.1\Exercicio_Tabuada.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Área de Trabalho\C# sharp\Tabuada\obj\Debug\netcoreapp3.1\Exercicio_Tabuada.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\C# sharp\Tabuada\obj\Debug\netcoreapp3.1\Exercicio_Tabuada.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Área de Trabalho\C# sharp\Tabuada\obj\Debug\netcoreapp3.1\Exercicio_Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\C# sharp\Tabuada\obj\Debug\netcoreapp3.1\Exercicio_Tabuada.dll
+C:\Users\andre\OneDrive\Área de Trabalho\C# sharp\Tabuada\obj\Debug\netcoreapp3.1\Exercicio_Tabuada.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\C# sharp\Tabuada\obj\Debug\netcoreapp3.1\Exercicio_Tabuada.genruntimeconfig.cache
